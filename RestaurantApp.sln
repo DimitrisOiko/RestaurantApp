@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.32510.428
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestaurantApp.Web", "RestaurantApp.Web\RestaurantApp.Web.csproj", "{BA08C6BA-110D-4BCA-B359-61A6A63C2CC8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Restaurant.Data", "Restaurant.Data\Restaurant.Data.csproj", "{8C24B12A-CA40-412C-B493-0EA82184C03F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestaurantApp.Data", "Restaurant.Data\RestaurantApp.Data.csproj", "{8C24B12A-CA40-412C-B493-0EA82184C03F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
