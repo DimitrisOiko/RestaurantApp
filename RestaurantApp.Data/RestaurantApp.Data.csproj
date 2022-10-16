@@ -7,8 +7,8 @@
     <ProjectGuid>{8C24B12A-CA40-412C-B493-0EA82184C03F}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Restaurant.Data</RootNamespace>
-    <AssemblyName>Restaurant.Data</AssemblyName>
+    <RootNamespace>RestaurantApp.Data</RootNamespace>
+    <AssemblyName>RestaurantApp.Data</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
