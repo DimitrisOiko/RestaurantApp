@@ -3,14 +3,18 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using RestaurantApp.Data.Services;
 
 namespace RestaurantApp.Web.Controllers
 {
     public class HomeController : Controller
     {
+        IRestaurantData db;
+
         public ActionResult Index()
         {
-            return View();
+            var model = db.GetAll();
+            return View(model);
         }
 
         public ActionResult About()

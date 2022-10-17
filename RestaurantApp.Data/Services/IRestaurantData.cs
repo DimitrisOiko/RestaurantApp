@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace RestaurantApp.Data.Services
 {
-    interface IRestaurantData
+    public interface IRestaurantData
     {
         IEnumerable<Restaurant> GetAll();
 
